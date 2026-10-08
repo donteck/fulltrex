@@ -1,0 +1,275 @@
+[
+  {
+    "name": "account-addresses",
+    "path": "design/pages/account-addresses.png",
+    "source": "exec-033bb82d-36e1-4436-a3f1-aa9cec9ae3e4.png",
+    "sha256": "829ceb79fb8c9a6d5a993004de22451ca6da1cdc25c63deff18d5b6d8682ec47",
+    "note": null
+  },
+  {
+    "name": "our-story",
+    "path": "design/pages/our-story.png",
+    "source": "exec-089e65ea-bc71-4bd7-ad49-3fed8ebe980b.png",
+    "sha256": "84b7bb234e709019a319636f05313d1e6d30bb15893cca367b111da66c3275a9",
+    "note": null
+  },
+  {
+    "name": "shopping-bag",
+    "path": "design/pages/shopping-bag.png",
+    "source": "exec-14277e8d-f892-4e61-9c88-f0083ddb87c1.png",
+    "sha256": "184108cc7cfeffe39515409a4a75eb48d7b6f69799f1116eb56e7eb463f9b28f",
+    "note": null
+  },
+  {
+    "name": "collections",
+    "path": "design/pages/collections.png",
+    "source": "exec-17add043-f08b-4f79-979e-61edc01bcfd5.png",
+    "sha256": "13112cc857a024af0f878ab8e98dabbcc07d4b616f2683a3a2ef21b5113017da",
+    "note": null
+  },
+  {
+    "name": "delivery-returns",
+    "path": "design/pages/delivery-returns.png",
+    "source": "exec-1829205a-7c15-4ebb-9569-e30206b681e1.png",
+    "sha256": "a55b37a0a36cd2ea897e6f93d04c2eb6a053419472a0d44d1060c8ecbf870651",
+    "note": null
+  },
+  {
+    "name": "beauty",
+    "path": "design/pages/beauty.png",
+    "source": "exec-18547a86-d4c1-45ef-bd0f-dc0242fafa46.png",
+    "sha256": "58e10d59f75c3597f13ae5e43d509d7b9e2f8c944d34a669a8d91ea96d9a509d",
+    "note": null
+  },
+  {
+    "name": "order-confirmation",
+    "path": "design/pages/order-confirmation.png",
+    "source": "exec-19ee8b89-8dad-4690-b640-b9889e99a165.png",
+    "sha256": "c5b6ddcd870d6331685eca71266e469815d7d7fbf8800613a36c7220b965ada1",
+    "note": null
+  },
+  {
+    "name": "password-recovery",
+    "path": "design/pages/password-recovery.png",
+    "source": "exec-21a4f3ea-2207-4ca5-b95a-381fce33edf2.png",
+    "sha256": "d8e9d3ba8ab077e4bfac8b37fcc90c2b31a43815d57d4faf72199eeabf71b155",
+    "note": null
+  },
+  {
+    "name": "account-details",
+    "path": "design/pages/account-details.png",
+    "source": "exec-46885d4d-c460-4a21-a9ce-b24ec2f753bd.png",
+    "sha256": "ac13ea970ae40d8a9c0056b95ba4ff62f54d5364d8207ec2e4c7be6aa93680c0",
+    "note": null
+  },
+  {
+    "name": "product-performance-jacket",
+    "path": "design/pages/product-performance-jacket.png",
+    "source": "exec-4ee04b3d-9733-48b1-be25-2bfeea4ffe4c.png",
+    "sha256": "be6310f2b549a8c7f8e4d28988c084ec54998c94da308c7093a8e05e2e9286fa",
+    "note": null
+  },
+  {
+    "name": "checkout-payment",
+    "path": "design/pages/checkout-payment.png",
+    "source": "exec-59b0be16-03cb-4669-bf97-d8f4ea71b4ad.png",
+    "sha256": "38434c344780e0b295e7918b022fca7127340e63df186210393dfe2d4a9a80b4",
+    "note": null
+  },
+  {
+    "name": "berry-back",
+    "path": "design/products/berry-back.png",
+    "source": "exec-5ef1da56-a784-4c4e-be9c-cb79c9fb4933.png",
+    "sha256": "bbbe333a05313d2d363b8e547d9f6e28fda46e264d09dd3017a0e6887f7c53ed",
+    "note": null
+  },
+  {
+    "name": "sign-in",
+    "path": "design/pages/sign-in.png",
+    "source": "exec-5f95abd3-d978-417b-8863-d2433c34bd7d.png",
+    "sha256": "7bb7f8f61d3e4ffc58e148c489426765a40ec724201fe44d1ba5ef4cc516beae",
+    "note": null
+  },
+  {
+    "name": "citrus-lime-incomplete",
+    "path": "design/archive/citrus-lime-incomplete.png",
+    "source": "exec-664b71a0-6495-41ea-89d3-42bc568e5bb4.png",
+    "sha256": "87e4e4a60bf2086b3e952b3df785c4389f348195b6f8c9caaf2b9abdc7c4973a",
+    "note": "Source image is truncated; retained as an incomplete concept."
+  },
+  {
+    "name": "homepage",
+    "path": "design/pages/homepage.png",
+    "source": "exec-6b26a94d-19f5-4b51-acd3-95ef920f2b1c.png",
+    "sha256": "de907acd03fa557c4a6f6128aa18770fff87a3ec76fedd2e2b2c50c8e7a14a22",
+    "note": null
+  },
+  {
+    "name": "tropical-front",
+    "path": "design/products/tropical-front.png",
+    "source": "exec-7a794c51-631f-45a4-9fad-16cda16cb1f5.png",
+    "sha256": "f19cb02c2dc23c6366f318e98b266b8b643116d48d52f32cfc2ea6c72de96108",
+    "note": null
+  },
+  {
+    "name": "citrus-lime-angles",
+    "path": "design/products/citrus-lime-angles.png",
+    "source": "exec-7c1997fc-e2db-49ad-bb22-8633cae795a2.png",
+    "sha256": "a473e58428b8031d7bbef9f241bbbf0ac6227416ef85e365bd458ea0d310d380",
+    "note": null
+  },
+  {
+    "name": "citrus-lime-front",
+    "path": "design/products/citrus-lime-front.png",
+    "source": "exec-7f29b6f7-c93b-461e-a3d2-077899c946ce.png",
+    "sha256": "032f16b27228b8aeddfc8fb45c84828ed3eba2b4cd49c854b671ed9bb64b3e84",
+    "note": null
+  },
+  {
+    "name": "wishlist",
+    "path": "design/pages/wishlist.png",
+    "source": "exec-88256734-5ec9-4435-b087-9b610c5d5fe3.png",
+    "sha256": "b179660f5ffed0e6c1e49389192fdb97cd7fc41f9c99b0e3f9e1f3a8a01f51fa",
+    "note": null
+  },
+  {
+    "name": "blue-drink-back",
+    "path": "design/products/blue-drink-back.png",
+    "source": "exec-8e483dd6-4a88-49e9-adea-ffbea411c369.png",
+    "sha256": "f6f92d23af3845f96cb12cd44a29468b3d96954f0360798a11c70d06f682bf0f",
+    "note": null
+  },
+  {
+    "name": "brand-collections",
+    "path": "design/brand/brand-collections.png",
+    "source": "exec-92297c96-a432-48eb-b66d-f85148f45fff.png",
+    "sha256": "cbce9a031751da02954e16b89e7c14a463973a3e58e8fcc817bb3bb5f16983ce",
+    "note": null
+  },
+  {
+    "name": "contact-support",
+    "path": "design/pages/contact-support.png",
+    "source": "exec-9802e685-8d6e-4796-9f5b-7cf278c98fb3.png",
+    "sha256": "006d6dfb25c2b27011a81c7e38472ea36f17c656262146ef3c22a287d50c52b2",
+    "note": null
+  },
+  {
+    "name": "blue-drink-front",
+    "path": "design/products/blue-drink-front.png",
+    "source": "exec-9ba052c9-c189-47cb-b4f4-53d28f63e520.png",
+    "sha256": "e6f7cc9f0b79e2e1902794c3d8a65d0166360150cf12c37560fa2e0a1f16f58e",
+    "note": null
+  },
+  {
+    "name": "reset-password",
+    "path": "design/pages/reset-password.png",
+    "source": "exec-9ccb0b9a-ff0f-4280-ace6-ef7ef5ed98cc.png",
+    "sha256": "1474b87f8c3a215893aa85f2bed1b0a44a7bdde97b730db50f164bdcafbe7cad",
+    "note": null
+  },
+  {
+    "name": "order-tracking",
+    "path": "design/pages/order-tracking.png",
+    "source": "exec-9e1c4a8c-0048-4c55-bc26-4738155a5d1d.png",
+    "sha256": "a8896500f480940f5ef29c1aea28de92e78e85e0a92ec881049f595b2198f0a9",
+    "note": null
+  },
+  {
+    "name": "create-account",
+    "path": "design/pages/create-account.png",
+    "source": "exec-a025f0b1-d1a6-410d-810c-aa8a64c81b86.png",
+    "sha256": "743a8026066ee88c0dbce00f9ba699e3de15069e9e49b85e4c32bbdafb7a92f6",
+    "note": null
+  },
+  {
+    "name": "product-body-lotion-incomplete",
+    "path": "design/archive/product-body-lotion-incomplete.png",
+    "source": "exec-a2968e24-542b-4435-9a6b-5c55f5b82c5c.png",
+    "sha256": "f00037a7de6ac63c98a116bcd96acb8db591967f04f3dd1de4bae564c87a121b",
+    "note": "Source image is truncated; retained as an incomplete concept."
+  },
+  {
+    "name": "product-citrus-lime",
+    "path": "design/pages/product-citrus-lime.png",
+    "source": "exec-acd9118e-a0f5-45ec-8575-5e7c0e9391dd.png",
+    "sha256": "975f6c6b23f71481d6c77874966dbcd70820bde3ec92ffaec47f326d3d402b3b",
+    "note": null
+  },
+  {
+    "name": "clothing",
+    "path": "design/pages/clothing.png",
+    "source": "exec-c0d93d4d-e97b-455d-877e-ed65e2e12c77.png",
+    "sha256": "bf15dc7de287a811630ec3dd6f95e26df6a4396cf6d0408d4f295dfaa3e289eb",
+    "note": null
+  },
+  {
+    "name": "help-center",
+    "path": "design/pages/help-center.png",
+    "source": "exec-c8faf0b3-e9e8-45ac-a96a-61aa489933da.png",
+    "sha256": "dbe63cad53ff7b294a841c783030ff81d2baa3e1b746433d0299400858440ffa",
+    "note": null
+  },
+  {
+    "name": "logo",
+    "path": "design/brand/logo.png",
+    "source": "exec-caa320e3-bd09-421e-97a5-b6338a8fd8f0.png",
+    "sha256": "0067ff60f535caf137aaf29e78a5accd64a6af0679ea370c573a567e8067f5bc",
+    "note": null
+  },
+  {
+    "name": "drink-collection",
+    "path": "design/products/drink-collection.png",
+    "source": "exec-d5c40b71-ae5a-4477-9fc3-e072dd8332a1.png",
+    "sha256": "9c7adc13f3bd88fcc45fbb96e8013320f231b4984e1944adb8fab73455a27c98",
+    "note": null
+  },
+  {
+    "name": "sportswear",
+    "path": "design/brand/sportswear.png",
+    "source": "exec-d7424893-4961-48c9-bc0c-1580e204c12a.png",
+    "sha256": "88168d26f8113aab440293b000b3011b3d37b3f4f0b6ff6fa10929f3a6313f2e",
+    "note": null
+  },
+  {
+    "name": "account-dashboard",
+    "path": "design/pages/account-dashboard.png",
+    "source": "exec-d9dfdfb2-3afb-4f8a-9b0d-600170b6f346.png",
+    "sha256": "0ab7ee5bebc5b2175be91b2fb1999544f26f9d3ee57c3abfaa7e51251b6e2f94",
+    "note": null
+  },
+  {
+    "name": "berry-front",
+    "path": "design/products/berry-front.png",
+    "source": "exec-dcc817e1-1d05-41be-be60-af417503d9e6.png",
+    "sha256": "cfa397781201205540be4d6fde692e27562c692b815150970fc4253e21381918",
+    "note": null
+  },
+  {
+    "name": "beauty-brand",
+    "path": "design/brand/beauty-brand.png",
+    "source": "exec-e79193ce-02f1-4e13-9a42-21acf7042ac3.png",
+    "sha256": "17e619ecab493b63cf14c5b3bf1777685f09fab1d5f56f0e27f4de207df75fdd",
+    "note": null
+  },
+  {
+    "name": "fuel",
+    "path": "design/pages/fuel.png",
+    "source": "exec-e7b2fcce-8643-4c98-a840-8487a3017df8.png",
+    "sha256": "cc8ca866a4ab4267a9184e63e3df92f8eb65683b7af0c9e36ec01f2a1c177ade",
+    "note": null
+  },
+  {
+    "name": "tropical-back",
+    "path": "design/products/tropical-back.png",
+    "source": "exec-fb0ef2fa-7852-4e4c-a4ae-daaae5d1e5fb.png",
+    "sha256": "8b005770d34db922778bb21f7fae4b1a1903aea8143279d614664aa6329b1b0e",
+    "note": null
+  },
+  {
+    "name": "checkout-review",
+    "path": "design/pages/checkout-review.png",
+    "source": "exec-fc318399-f093-49cf-8ad7-a72ae18e6312.png",
+    "sha256": "d6cb8f7be1e4bed608b1e7dc124d8d672f5b11909302d4a066ba106c818b748c",
+    "note": null
+  }
+]
