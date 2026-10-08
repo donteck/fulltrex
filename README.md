@@ -4,6 +4,12 @@ Luxury sport lifestyle brand connecting premium sportswear, nonalcoholic drinks,
 
 **Move. Refresh. Care.**
 
+## Investor package
+
+[Get the complete investor design package](investor/README.md) — 39 design files, the investor philosophy PDF, and a suggested pitch order in labeled folders. The large ZIP is stored in 9 parts with verified restore scripts. Two incomplete source images are separated in the archive.
+
+[Read the presentation guide](investor/START_HERE.txt).
+
 ## Project status
 
 This repository contains the brand and website design work completed so far. The website has not yet been implemented; the images are visual mockups, not interactive pages. Sample prices, orders, product labels and specifications are illustrative.
